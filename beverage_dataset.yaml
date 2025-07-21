@@ -1,0 +1,10 @@
+# Dataset configuration for beverage detection
+train: ./dataset/train/images
+val: ./dataset/valid/images
+test: ./dataset/test/images
+
+# Number of classes (update based on your dataset)
+nc: 3
+
+# Class names (update based on your dataset)
+names: ['bottle', 'can', 'carton']
