@@ -93,3 +93,5 @@ A Python-based computer vision application to detect and classify beverages (e.g
 
 - Deploy to AWS or Flask for a web-based interface.
 - Add more beverage classes to the dataset.
+
+![1753084345024](image/README/1753084345024.png)
